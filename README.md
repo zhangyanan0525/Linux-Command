@@ -14,6 +14,6 @@ curl -O https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-3.2.9.tgz
 就会下载mongodb安装包
 
 
-二 rar
+二 tar
 
 linux下最常用的打包程序就是tar了，使用tar程序打出来的包我们常称为tar包，tar包文件的命令通常都是以.tar结尾的。生成tar包后，就可以用其它的程序来进行压缩。
